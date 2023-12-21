@@ -1,0 +1,172 @@
+    1) when the sample size is small and variance unknown, the test statistic to use is ___________
+       A. Normal statistic B. t statistic C. Z statistic D. Unknown statistic
+    2)  The 99 points that divide a line into 100 equal parts is called _____________
+        A. percentile  B. decade C. deciles D. Quartiles
+    3)  the fifth deciles is equivalent to__________
+       A. 60 percentiles B. lower quartiles C. Median D. Range
+    4) Which of the following is a measure of partition 
+       A. Mean B. Median C. range D. deciles
+    5) Three points that divide a distribution into four equal part is known as the A.quartiles B. quantiles C. Percentiles D. Percentages
+       A
+    6) Suppose 900 students were randomly selected for a national competition. If their average score was 2.7, and the standard deviation was 0.4. the value of standard error of the mean is  
+       A. 0.0033 B. 0.1333 C. 0.3333 D. 0.0133
+       D
+    7) If the value of excess kurtosis is -2.40, then the data is said to be
+       A. sightly mesokurtic B. Slightly leptokurtic C. Sightly platykurtic D. None of the above 
+    8) in a particular political campaign, a candidate has a poll taken at random from the voting population. The results given as y=59 out of n=112 voters favor the candidate. Find the 95percent confidence interval for P. 
+       A. (0.435,0.619) B. (0.435,0.690) C. (0.435,0.700) D.(0.435,0.500)
+    9) Given the following set of data 25,10, 80, 12, 6, 90,100. the value of the inter-quartiles range is  A. 105 b. 100 C. 95 D. 90
+    10) If di2 =20 and n=10. What is the coefficient of rank correlation
+       A. 0.8788 B. 0.7887 C. 0.8878 D. 0.8 612
+    11) You are given the following set of observation for the independent variable x and the dependent variable y.  x=(-3,-1, 1, 3), y=(8,4,5,-1). The east squares linear regression equation is 
+       A. y=-1.3+4x B. y=4-1.3x  C. y=-1.3-0.897x D. y=-0.897-1.3x
+    12) Two men Aliyu and Bauta fell sick and were tested for HIV, In the course of labeling their blood sample, Mr Aliyu blood sample was mistakenly switched for Mr Bauta blood sample. At the end of the test, Mr Aliyu was tested positive. What error has the doctor committed 
+       A. Type II B. Type I C. Absolute error D. No error 
+    13) The error committed when a false nu hypothesis is assumed to be true is ______
+       A. Type II B. Type I C. Absolute error D. Type Nu error 
+    14) Which of the following is TRUE
+       A. increase in sample size will increase the beta ( i.e P(Accept H0: H0 is false ) value
+       A. increase in sample size will increase the beta ( i.e P(Accept H0: H0 is false ) value
+       B. increase in sample size will reduce the beta ( i.e P(Accept H0: H0 is false ) value
+       C. increase in sample size will increase the alpha ( i.e P(Accept H0: H0 is false ) value
+       D. increase in sample size will reduce the alpha ( i.e P(Reject H0: H0 is true ) value
+    15) The value of two variable moves in the same direction, __
+A. The correlation is said to be non-linear B. The correlation is said to be linear C. the correlation is said to be negative D. the correlation is said to be positive 
+    16) The domain of statistics covered data collection, ________,____ analysis and report writing  A. description, management b. Management, processing  C. processing, description D. usage, management.
+    17) If the value of two variable moves in the opposite direction, ______
+       A. The correlation is said to be non-linear B. The correlation is said to be linear C. the correlation is said to be negative D. the correlation is said to be positive 
+    18) Ethnicity is an example of a variable measured on _______scale
+          A. A Nominal  B. An  interval C. A ratio D. an ordinal
+    19) The independent variable is used to explain the dependent variable in ____
+       A. linear regression analysis B. multiple regression analysis C. Non-linear regression analysis D. None of the above 
+    20) ----------is an example of a discrete variable  A. weight B. color C. family size D. gender
+    21) Below is the inventory of beverages in a store , which beverage is the highest in quantity in the store.  Coca-cola, Sprite, Fanta, Pepsi, Fanta, Sprite, fanta, Pepsi, Coca-cola, Fanta, Coca-cola, Pepsi, Pepsi, Coca-cola, Fanta, Pepsi, Sprite.
+       A. Pepsi B. Fanta C. Coca-cola D. Sprite
+    22) __should be indicated at the bottom of a table  A. Relevance B. Repeatability C. Objectivity D. integrity 
+    23) Which of the following statements is true about the regression line
+       A. A regression line is also known as the line of average relationship
+       B.  A regression line is also known as the estimating equation
+       c.  A regression line is also known as the prediction equation
+       D. A of the above
+    24) what is frequency of object
+       A. frequency gives the number of times that an entry occurs
+       B. frequency gives the number of times that an entry occurs per unit time
+       C. frequency gives the percentage of times that an entry occurs
+       D. frequency gives the fraction of times that an entry occurs
+    25) ___ is not a type of survey A. Social survey B. Market research C. opinion polls D. talk show
+    26) statistical abstract is an example of data from ____sources 
+       A. official B. published C. unofficial D. unpublished
+    27) consider the table below, compute the cumulative frequency of the distribution 
+Score
+3
+5
+6
+8
+9
+Frequency
+3
+2
+1
+3
+2
+       A. 11 B. 10 C. 13. D 9
+    28) Using the data below compute range for the score
+       A. 9 B. 8 C. 6 D. 10
+    29) Class mark is the ___of a class interval A. range B. endpoint C. midpoint D. boundary
+    30) Given the hypothesis below at 5percent level  of significance. 
+        H0: There is GOD
+       Ha :there is No GOD
+       what conclusion can you draw from this hypothesis if the Z calculated is 1.99
+       A. We reject the null hypothesis, hence there is no adequate evidence that GOD exist.
+       B. We reject the null hypothesis, hence there is adequate evidence that GOD exist.
+       C. We reject the null hypothesis, hence there is little or no evidence to support the  H0.
+       D. We accept the null hypothesis, hence there is no sufficient evidence against the null
+    31) Which of the following does not pertain to descriptive statistics? (a)Graphical presentation of quantitative data (b) summarizing quantitative data (c) making generalization about a population from sample data (d)collecting quantitative data
+    32) What are the three measures that can be used to describe a set of quantitative data? (a) skewness, median, mode (b) location, mean, mode (c) location, skewness, shape (d) mean, mode, data
+    33) What is the relationship between arithmetic, geometric and assumed means? (a)A.M≤H.M≤G.M (b)H.M≤G.M≤A.M (c) H.M≥G.M≥H.M (d) none of the above
+    34) If the variance of a distribution is 49, what is its standard deviation? (a) 8 (b)9 (c) 7 (d) none of the above
+    35) The most occurring value in a distribution is ........... (a) mean (b) mode (c) median (d) range
+    36) In order to compute the Pearson’s measured of skewness of any distribution, we need ................. (a) mean,median, standard deviation (b) median and standard deviation (c)mean and median (d) mean and standard deviation 
+    37) The section of statistics that involves the collection, organization and presentation of data relating to some population or example is ............. (a) classical statistics (b) inductive statistics (c) descriptive statistics (d)inferential statistics 
+    38) Using this stem and leaf diagram, find the mode, mean and median of the following scores.
+       
+       
+       4| 5 6 8
+       5| 3 4 5 6 9
+       6| 2 3 5 6 6 9 9
+       7| 0 1 1 3 3 4 5 5 5 7
+       8| 1 2 3 6 9
+       9| 3 5 7 8
+    39) Data such as gender, eye color, ethnicity etc. are classified as (a) ordinal (b) nominal (c) ratio (d) none of the above
+    40) In a set of discrete values of observation, 50% of the values are greater than 25, then Q 2 IS ....... (a)100 (b)25 (c)75 (d)0.25
+    41) A statement made stating that students in a class are between ages 25 and 50 years gave us what information. (a)range (b)mode (c)mean (d)median
+    42) What type of distribution is described by the following information: Mean=56, Median=57, Mode=58
+       (a) Symmetrical (b) Bimodal (c) Positively skewed (d) Negatively skewed
+    43) The data 3,5,7,3,5 can be described as ........... (a) bimodal (b) bi-variate (c)all of the above (d) none of the above
+    44) An unknown population value is referred to as ......... (a) parameter (b) statistic (c) variable (d) X
+    45) Greek letters are used to represent ........... (a) sample values (b) population values (c) all of the above (d) none of the above
+    46) Which of these is not a type of estimation? (a) point estimation (b) sample estimation (c) interval estimation (d) none of the above
+    47) The more reliable types of estimates  Is .......................…
+       (a) point estimation (b) sample estimation (c) interval estimation (d) none of the above
+    48) The formula for calculating confidence interval is ........................ (a) Point estimate + Margin of error (b)
+    49) Point estimate - Margin of error (c) Point estimate ± Margin of error (d) none of the above.
+    50) Z C × Standard error is the formula for calculating ............. (a) Critical value (b) Hypothesis making (c) Margin of error (d) ) none of the above.
+    51) The standard error for population mean is .................. (a)σ/ √n (b)σ (c) n (d) Z C × MOE
+    52) The critical value in a 99% confidence interval is .................…
+        A. 1.96 B. 2.54 C. 2.576 D.  1.645
+    53) Given a distribution with mean=10, S.D = 5, n=25, calculate the confidence interval with a 90% confidence level
+       (Z0.05 =1.645, Z0.005 =2.576)
+    54) Three properties of a sample distribution of a sample mean are .............. (a) center, mean, mode (b) median,spread, shape (c) center, spread, shape (d)mean, mode, median
+    55) The value number of success sample size is known as: (a) sample mean (b)sample distribution (c)sample properties (d)none of the above
+    56)  The standard deviation of a sampling distribution of sampling proportion is given by ................
+    57) An initial statement such as ‘The mean is 12’ can be known as : (a)null hypothesis (b)test statistic (c)type-1 error (d) it does not have any meaning
+    58) The processes for hypothesis testing arranged in order are
+       (i)State H0 and Ha
+       (ii)Establish critical or rejection region
+       (iii)State level of significance
+       (iv)Reach a conclusion
+       (v)Calculate suitable test statistic
+       (a) I,ii,iii,iv,v (b)I,iv,iii,ii,v (c)I,ii,iii,v,v (d)I,iii,ii,v,iv
+       D
+       
+    59) The power of a statistical test is given by: (a)1-α (b)1-β (c)α (d)β
+    60) If the null hypothesis is ‘Musa is 10 years old’. The alternate hypothesis will be given as .....................................…
+       A. ‘Musa is not 10 years old’ B. ‘Musa is greater than 10 years old’ C. ‘Musa is below 10 years old’ D. ‘Musa is not more 10 years old’
+    61) If a true null hypothesis is rejected, .................. error is committed.
+        A. Type I B.  Type II C.  Type III D. None of the above
+    62) What is the full meaning of ANOVA?
+    63) A quantitative variable that can assume an uncountable number of values is called ...................
+       (a)qualitative variable (b)continuous variable (c)discrete variable (d) count variable
+    64) The following ages are those of 10 SS3 boys at Wesley College, Ibadan.
+       18,18,19,17,19.5,19,17,18.5,18,17
+       Use the data to set 95% and 99% confidence limit to the true mean age of the SS3 boys.
+    65) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5  The value of the mean is ........(A) 5 (B) 4.25 (C) 4 (D) 6.1
+    66) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5 The value of the mode is .....… (A) 2 (B) 5 (C) 4 (D) 3
+    67) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5 The value of the first quartiles (Q 1 ) is .....… (A) 2.5 (B) 3.5 (C) 2 (D) 3.25
+    68) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5 The value of the inter-quartiles range (IQR) is .........
+       (A) 3.15 (B) 4 (C) 3 (D) 3.5
+    69) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5 The value of the variance is .....… (A) 5.5 (B) 5 (C) 4.5 (D) 4
+    70) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5 The value of the mid-range is .....… (A) 4 (B) 5.5 (C) 5 (D) 4.5
+    71) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5 The value of the coefficient of variation is .....… (A) 55.4 % (B) 55 % (C) 40 % (D) 50 %
+    72) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5, From the values of the mean, median, and mode, you can conclude that the distribution of these data is .....… (A) positively skewed. (B) negatively skewed. (C) symmetric. f(D) left-skewed.
+    73) Suppose that you have the following set of numbers: 8, 2, 5, 3, 6, 7, 4, 5, The distribution of these data is called ........ distribution.
+       (A) bimodal (B) trimodal (C) uni-modal (D) multi-modal
+    74) If we have measured the weights of a sample of 50 persons and computed their median, this will be an example of ........ statistics.
+       (A) descriptive (B) inferential (C) predictive (D) population
+    75)  Nationality is an example of what level of measurement?
+       (A) ordinal (B) nominal (C) ratio (D) interval
+    76) Use the following frequency distribution to answer questions (12-
+       Class Limits  40-50  50-60  60-70  70-80  80-90  Total
+        Frequency        3         4         6          5         2        20
+       The number of classes is ........
+       (A) 3 (B) 6 (C) 4 (D) 5
+    77) What is the width of the class 60 -70?
+       (A) 15 (B) 10 (C) 20 (D) 5
+    78) The modal class is .....… (A) 70 – 80 (B) 60 – 70 (C) 50 – 60 (D) 40 - 50
+    79) The value of the range is .....… (A) 50 (B) 45 (C) 40 (D) 55
+    80)  Using the class 70 - 80, the lower class limit, and the class ...... and ......, respectively.
+       (A) 69.5, 75 (B) 69.75, 70 (C) 80, 70 (D) 70, 75
+    81)   What is the cumulative frequency for the class 70 - 80?
+       (A) 16 (B) 12 (C) 18 (D) 17
+    82) When data are categorized as Saudi, Egyptian, Syrian, and Sudanese, the most appropriate measure of central tendency is the .........
+    83) (A) mean (B) median (C) mid-range (D) mode
